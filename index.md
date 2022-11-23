@@ -1,2 +1,7 @@
-Scatterplot
-<iframe width="100%" height="423" frameborder="0" src="https://observablehq.com/embed/dacf45b0986852e8?cells=scatter"></iframe>
+#Resultados das Eleições Gerais no Ceará em 2022
+<iframe width="100%" height="106" frameborder="0"
+  src="https://observablehq.com/embed/8f6fa6059c74e628?cells=viewof+turno"></iframe>
+
+### Resultados do x turno:
+<iframe width="100%" height="1413" frameborder="0"
+  src="https://observablehq.com/embed/8f6fa6059c74e628?cells=viewof+winnerChoropleth%2Cviewof+runnersUpChoropleth"></iframe>
