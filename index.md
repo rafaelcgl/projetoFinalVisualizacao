@@ -5,5 +5,5 @@
 <iframe width="100%" height="480" frameborder="0"
   src="https://observablehq.com/embed/80e6ecb0a6dfcd40?cells=viewof+enun2%2Cviewof+municipiosScatter"></iframe>
 
-<iframe width="100%" height="151.734375" frameborder="0"
-  src="https://observablehq.com/embed/a90ed0702ddc2d3b?cells=viewof+ano%2CgerarChart"></iframe>
+<iframe width="100%" height="708.03125" frameborder="0"
+  src="https://observablehq.com/embed/a90ed0702ddc2d3b?cells=viewof+ano%2Cassembleia"></iframe>
