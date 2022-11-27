@@ -7,3 +7,6 @@
 
 <iframe width="100%" height="151.734375" frameborder="0"
   src="https://observablehq.com/embed/a90ed0702ddc2d3b?cells=viewof+ano%2CgerarChart"></iframe>
+
+<iframe width="100%" height="661" frameborder="0"
+  src="https://observablehq.com/embed/e8c59cdcd898270d?cells=asemb"></iframe>
