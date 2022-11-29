@@ -4,3 +4,5 @@
 
 <iframe width="100%" height="708.03125" frameborder="0"
   src="https://observablehq.com/embed/a90ed0702ddc2d3b?cells=viewof+ano%2Cassembleia"></iframe>
+  <iframe width="100%" height="205" frameborder="0"
+  src="https://observablehq.com/embed/a90ed0702ddc2d3b?cells=legendasAssembleia%2CbarrasEmpilhadas"></iframe>
